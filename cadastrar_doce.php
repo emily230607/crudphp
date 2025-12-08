@@ -53,7 +53,6 @@ if (!isset($_SESSION['autenticado'])) {
                     <option value="Bolo">Bolo</option>
                     <option value="Torta">Torta</option>
                     <option value="Cupcake">Cupcake</option>
-                    <option value="Brigadeiro">Brigadeiro</option>
                     <option value="Brownie">Brownie</option>
                     <option value="Cookie">Cookie</option>
                     <option value="Doce de Festa">Doce de Festa</option>
